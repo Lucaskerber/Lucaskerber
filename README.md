@@ -2,10 +2,10 @@
 
 ###
 
-<p align="left">Meu nome é Lucas de Moraes Kerber e sou Analista de Dados em formação, de SP, Brasil 🇧🇷</p>
+<p align="left">Meu nome é Lucas de Moraes Kerber, sou Analista de Dados e resido em Jundiaí-SP 🇧🇷</p>
 
 <p align="left">
- Atualmente estou estudando e em transição para a área de Dados, com foco em projetos práticos envolvendo extração, limpeza, análise e visualização de dados. Utilizo ferramentas como Python, SQL, Power BI e Excel para desenvolver habilidades na resolução de problemas reais através dos dados.
+ Atualmente estou em transição de carreira para a área de Dados, com foco em projetos práticos, envolvendo: extração, limpeza, análise e visualização de dados. Utilizo ferramentas como Python, SQL, Power BI e Excel para desenvolver soluções de problemas reais através dos dados.
 </p>
 
 ###
