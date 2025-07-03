@@ -2,11 +2,10 @@
 
 ###
 
-<p align="left">My name is Lucas de Moraes Kerber and I'm a Data Analyst in training, from SP, Brazil 🇧🇷</p>
+<p align="left">Meu nome é Lucas de Moraes Kerber e sou Analista de Dados em formação, de SP, Brasil 🇧🇷</p>
 
 <p align="left">
-  I'm currently studying and transitioning to the Data area, focusing on practical projects involving data extraction, cleaning, analysis, and visualization.  
-  I use tools like Python, SQL, Power BI, and Excel to develop skills for solving real-world problems through data.
+ Atualmente estou estudando e em transição para a área de Dados, com foco em projetos práticos envolvendo extração, limpeza, análise e visualização de dados. Utilizo ferramentas como Python, SQL, Power BI e Excel para desenvolver habilidades na resolução de problemas reais através dos dados.
 </p>
 
 ###
